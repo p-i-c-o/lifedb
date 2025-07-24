@@ -1,2 +1,1 @@
-# lifedb
-A self-hosted server system to store all information about medical and physical information.
+![https://raw.githubusercontent.com/p-i-c-o/lifedb/refs/heads/main/lifeDB.png](lifeBD)
