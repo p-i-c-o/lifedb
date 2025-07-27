@@ -1,0 +1,199 @@
+{
+  "date": "",
+  "_schema_version": 1,
+
+  "sleep": {
+    "start_time": "",
+    "end_time": "",
+    "duration_hours": null,
+    "quality": "",
+    "wakeups": null,
+    "sleep_score": null,
+    "snoring": false,
+    "dreams": [],
+    "notes": ""
+  },
+
+  "meals": [
+    {
+      "time": "",
+      "description": "",
+      "type": "",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sugar_g": null,
+      "sodium_mg": null,
+      "location": "",
+      "mood_before": "",
+      "mood_after": "",
+      "notes": ""
+    }
+  ],
+
+  "hydration": {
+    "total_liters": null,
+    "breakdown": [
+      {
+        "time": "",
+        "volume_l": null,
+        "type": "",
+        "temperature_c": null
+      }
+    ]
+  },
+
+  "supplements": [
+    {
+      "name": "",
+      "dose_mg": null,
+      "dose_g": null,
+      "time": "",
+      "form": "",
+      "with_meal": false,
+      "notes": ""
+    }
+  ],
+
+  "medications": [
+    {
+      "name": "",
+      "dose_mg": null,
+      "form": "",
+      "time": "",
+      "reason": "",
+      "prescribed": false,
+      "notes": ""
+    }
+  ],
+
+  "activities": [
+    {
+      "type": "",
+      "subtype": "",
+      "time_start": "",
+      "time_end": "",
+      "duration_min": null,
+      "intensity": "",
+      "location": "",
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "elevation_loss_m": null,
+      "calories_burned": null,
+      "avg_hr": null,
+      "max_hr": null,
+      "avg_pace_min_per_km": null,
+      "max_speed_kmh": null,
+      "cadence": null,
+      "reps": null,
+      "sets": null,
+      "weight_kg": null,
+      "RPE": null,
+      "weather": "",
+      "indoor": false,
+      "notes": ""
+    }
+  ],
+
+  "mental_state": {
+    "mood": "",
+    "mood_scale": null,
+    "energy_level": null,
+    "focus_level": null,
+    "motivation_level": null,
+    "stress_level": null,
+    "anxiety_level": null,
+    "irritability_level": null,
+    "social_interaction": "",
+    "mental_clarity": null,
+    "notes": ""
+  },
+
+  "screen_time": {
+    "total_hours": null,
+    "breakdown": {
+      "phone": null,
+      "computer": null,
+      "tv": null,
+      "tablet": null
+    },
+    "top_apps": [
+      {
+        "name": "",
+        "duration_min": null
+      }
+    ]
+  },
+
+  "habits": {
+    "meditation": false,
+    "journal": false,
+    "cold_shower": false,
+    "stretching": false,
+    "gratitude": false,
+    "reading": false,
+    "time_outdoors_min": null,
+    "sunlight_exposure_min": null,
+    "alcohol": false,
+    "caffeine_mg": null,
+    "nicotine": false,
+    "porn": false,
+    "mindfulness_minutes": null
+  },
+
+  "biometrics": {
+    "weight_kg": null,
+    "body_fat_percent": null,
+    "muscle_mass_kg": null,
+    "resting_hr": null,
+    "sleep_hr_avg": null,
+    "morning_hrv": null,
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "temperature_c": null,
+    "fasting_glucose_mg_dl": null,
+    "ketones_mmol_l": null,
+    "notes": ""
+  },
+
+  "health_events": [
+    {
+      "type": "",
+      "severity": null,
+      "start_time": "",
+      "end_time": "",
+      "duration_min": null,
+      "symptoms": [],
+      "trigger": "",
+      "recovery_method": "",
+      "notes": ""
+    }
+  ],
+
+  "productivity": {
+    "total_hours_focused": null,
+    "deep_work_hours": null,
+    "tasks_completed": [],
+    "planned_vs_done_ratio": null,
+    "main_distractions": [],
+    "procrastination_level": null,
+    "notes": ""
+  },
+
+  "environment": {
+    "wake_location": "",
+    "sleep_location": "",
+    "workspace": "",
+    "weather": "",
+    "temperature_c": null,
+    "humidity_percent": null,
+    "air_quality_index": null,
+    "noise_level_db": null
+  },
+
+  "notes": "",
+  "tags": []
+}
